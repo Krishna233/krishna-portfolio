@@ -785,3 +785,11 @@ section {
   height: 7vh;
   width: 8vh;
 }
+
+.mypic{
+  height: 40vh;
+  width: 40vh;
+  border-radius: 40%;
+  margin-bottom: 20px;
+  margin-top: -60px;
+}
